@@ -227,4 +227,26 @@ What happens inside the thread is the same as the EchoServer, where we handled o
 We'll still use EchoClient to test the server. This time, we'll create multiple clients each sending and receiving multiple messages from the server.
 
 
+## SPRING BOOT
+
+##### Spring Boot is an open source Java-based framework used to create a micro Service.
+
+## What is micro service?
+
+Micro Service is an architecture that allows the developers to develop and deploy services independently. Each service running has its own process and this achieves the lightweight model to support business applications.
+
+## Adventages
+
+Micro services offers the following advantages to its developers −
+
+- Easy deployment
+- Simple scalability
+- Compatible with Containers
+- Minimum configuration
+- Lesser production time
+
+
+
+
+
 
